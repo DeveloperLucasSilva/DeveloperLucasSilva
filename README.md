@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, seja muito bem-vindo ao meu portfólio!👋
 
 <!--
 **DeveloperLucasSilva/DeveloperLucasSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ Sou um estudante de Análise e Desenvolvimento de Sistemas em busca de uma oportunidade de estágio.
