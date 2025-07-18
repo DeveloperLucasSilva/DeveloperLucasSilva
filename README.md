@@ -1,5 +1,6 @@
 
  ### Olá, me chamo Lucas da Silva.
+ ** Desenvolvedor **
 ### Sejá muito bem-vindo ao meu perfil do Github, onde você poderá contemplar meus projetos e portfólios.👋
    Sou Estudante de Análise e Desenvolvimento de Sistemas e estou em busca de novas oportunidades
 ##
